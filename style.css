@@ -49,3 +49,7 @@ body {
 .second-hand {
     background: rgba(0, 0, 0, 0.5);
 }
+
+.min-hand {
+    background: rgba(100, 100, 100, 0.25);
+}
